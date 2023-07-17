@@ -1,0 +1,7 @@
+username ALL=(ALL) NOPASSWD:/sbin/route, /sbin/iptables, /usr/bin/nmap, /usr/sb>
+username ALL=(ALL) NOPASSWD:/usr/bin/systemctl
+username ALL=(ALL) NOPASSWD:/sbin/ifup, /sbin/ifdown
+
+
+
+
